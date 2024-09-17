@@ -2,6 +2,8 @@
 
 ## 🌐 Site do projeto [aqui](https://authentiquepi.netlify.app/)
 
+## 📝 Documentação [aqui](https://documenter.getpostman.com/view/36194350/2sAXjSyoYc) e [aqui](https://docs.google.com/document/d/1fdmsadEBWa4jsjWFRi1Ugz085ejMnIevyaJtW1IkjWE/edit?usp=sharing) 
+
 ## 🧐 Sobre o projeto
 Nosso objetivo com o Authentique App é o desenvolvimento de um aplicativo para ajudar na autenticação de documentos digitalmente
 
